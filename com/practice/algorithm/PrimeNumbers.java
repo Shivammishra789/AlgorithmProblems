@@ -11,6 +11,7 @@ public class PrimeNumbers {
 		}
 	}
 
+	// checking for prime numbers
 	public static boolean isPrime(int num) {
 		if (num == 0 || num == 1) {
 			return false;
